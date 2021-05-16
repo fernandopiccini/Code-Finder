@@ -1,0 +1,1 @@
+<?xml version="1.0" standalone="yes"?>  <DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="Linha" fieldtype="i4"/><FIELD attrname="Arquivo" fieldtype="string" WIDTH="255"/><FIELD attrname="Tipo" fieldtype="string" WIDTH="4"/></FIELDS><PARAMS/></METADATA><ROWDATA></ROWDATA></DATAPACKET>
