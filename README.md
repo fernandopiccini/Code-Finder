@@ -1,5 +1,5 @@
 # Code-Finder
-This application allows you to find any text in the source code of files with the extension .pas .dfm .sql .txt and .java
+Application developed in Delphi that allows you to find any text in the source code of files with the extension .pas .dfm .sql .txt and .java
 ![image](https://user-images.githubusercontent.com/22157008/114540491-f7cf0b00-9c2b-11eb-9db0-fc1a711a50bd.png)
 
 The option below allows you to locate the directory where the search will be performed.  
